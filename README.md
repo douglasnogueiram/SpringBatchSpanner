@@ -12,7 +12,7 @@ Java package with a generic example - Loans daily processing
 
  1. Spanner setup
 
- 2. Create database using your desired Google Spanner parameters
+ 2. Create a database using your preferred Google Spanner parameters
  3. Create tables:
  
 ```SQL
@@ -141,7 +141,7 @@ The batch runs with 2 main steps:
 ```
 
 > [!NOTE]
-> This exaple does not implement any valid financial calculation
+> This example does not implement any valid financial calculation
 
 
  3. Run the application
